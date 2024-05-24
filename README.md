@@ -1,4 +1,13 @@
-## Hi there 👋
+![](https://komarev.com/ghpvc/?username=schobbejak&color=blue)  
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=schobbejak&show_icons=true&theme=algolia)  
+
+
+
+### Kaggle
+
+[Ouranos's Kaggle Profile](https://www.kaggle.com/schobbejak)
 
 <!--
 **schobbejak/schobbejak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
