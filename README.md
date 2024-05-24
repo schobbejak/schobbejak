@@ -7,7 +7,7 @@
 
 ### Kaggle
 
-[Ouranos's Kaggle Profile](https://www.kaggle.com/schobbejak)
+[Jasper's Kaggle Profile](https://www.kaggle.com/schobbejak)
 
 <!--
 **schobbejak/schobbejak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
